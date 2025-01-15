@@ -15,3 +15,9 @@ img {
     margin-bottom: 95px;
     box-shadow: -2px 49px 60px -60px #919191;
 }
+
+@media screen and (max-width: 768px) {
+    img {
+        width: 100%;
+    }
+}
